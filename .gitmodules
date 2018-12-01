@@ -1,0 +1,3 @@
+[submodule "react-socket"]
+	path = react-socket
+	url = https://github.com/ashish-garg07/react-socket.git
